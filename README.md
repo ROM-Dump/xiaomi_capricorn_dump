@@ -1,0 +1,19 @@
+## capricorn-user 8.0.0 OPR1.170623.032 V11.0.2.0.OAGCNXM release-keys
+- Manufacturer: xiaomi
+- Platform: msm8996
+- Codename: capricorn
+- Brand: Xiaomi
+- Flavor: capricorn-user
+- Release Version: 8.0.0
+- Kernel Version: 
+- Id: OPR1.170623.032
+- Incremental: V11.0.2.0.OAGCNXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: zh-CN
+- Screen Density: 480
+- Fingerprint: Xiaomi/capricorn/capricorn:8.0.0/OPR1.170623.032/V11.0.2.0.OAGCNXM:user/release-keys
+- OTA version: 
+- Branch: capricorn-user-8.0.0-OPR1.170623.032-V11.0.2.0.OAGCNXM-release-keys
+- Repo: xiaomi_capricorn_dump
